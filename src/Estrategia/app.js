@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var Suma = /** @class */ (function () {
     function Suma() {
     }
@@ -8,7 +7,6 @@ var Suma = /** @class */ (function () {
     };
     return Suma;
 }());
-exports.Suma = Suma;
 var Resta = /** @class */ (function () {
     function Resta() {
     }
@@ -17,7 +15,6 @@ var Resta = /** @class */ (function () {
     };
     return Resta;
 }());
-exports.Resta = Resta;
 var Multi = /** @class */ (function () {
     function Multi() {
     }
@@ -26,4 +23,3 @@ var Multi = /** @class */ (function () {
     };
     return Multi;
 }());
-exports.Multi = Multi;
